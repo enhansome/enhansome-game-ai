@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,057 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,212 | 🐛 100 | 📅 2026-06-30
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -55,14 +55,14 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,622 | 🐛 17 | 🌐 C# | 📅 2026-08-12].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,408 | 🐛 46 | 🌐 C++ | 📅 2026-08-12].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,626 | 🐛 17 | 🌐 C# | 📅 2026-08-12].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,409 | 🐛 48 | 🌐 C++ | 📅 2026-08-12].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,498 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
-* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,537 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
+* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,538 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
-* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,443 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
+* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,444 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
 * DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 949 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
 * PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 722 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
 * DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 220 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
@@ -79,7 +79,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Starcraft Projects
 
-* StarCraft II Learning Environment \[[paper](https://arxiv.org/abs/1708.04782)] \[[code](https://github.com/deepmind/pysc2) ⭐ 8,303 | 🐛 64 | 🌐 Python | 📅 2024-07-23].
+* StarCraft II Learning Environment \[[paper](https://arxiv.org/abs/1708.04782)] \[[code](https://github.com/deepmind/pysc2) ⭐ 8,304 | 🐛 64 | 🌐 Python | 📅 2024-07-23].
 * A reimplementation of Alphastar based on DI-engine with trained models \[[code](https://github.com/opendilab/DI-star) ⭐ 1,391 | 🐛 1 | 🌐 Python | 📅 2025-03-13].
 * StartCraft II Reinforcement Learning Examples \[[code](https://github.com/chris-chris/pysc2-examples) ⭐ 756 | 🐛 26 | 🌐 Python | 📅 2021-03-03].
 * Gym StarCraft \[[code](https://github.com/alibaba/gym-starcraft) ⭐ 527 | 🐛 4 | 🌐 Python | 📅 2017-07-06].
@@ -92,7 +92,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Gomoku Projects
 
 * AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,623 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
-* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,798 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-13].
+* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,798 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-13].
 
 ### Chess Projects
 
@@ -106,7 +106,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Mahjong Projects
 
-* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,514 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
+* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,516 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
 * pymahjong (Japanese Riichi Mahjong) \[[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2026-06-09].
 
 ## Review and General Papers

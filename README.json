@@ -39,7 +39,7 @@
             "last_commit": "2026-08-12T19:24:26Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19622
+            "stars": 19626
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5408
+            "stars": 5409
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3537
+            "stars": 3538
           }
         }
       ],
@@ -101,7 +101,7 @@
             "last_commit": "2025-06-26T21:29:10Z",
             "owner": "dickreuter",
             "repo": "Poker",
-            "stars": 2443
+            "stars": 2444
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2024-07-23T16:54:42Z",
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8303
+            "stars": 8304
           }
         },
         {
@@ -346,7 +346,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:01:22Z",
+            "last_commit": "2026-08-13T07:39:52Z",
             "owner": "lihongxun945",
             "repo": "gobang",
             "stars": 1798
@@ -417,7 +417,7 @@
             "last_commit": "2025-09-28T14:29:24Z",
             "owner": "Equim-chan",
             "repo": "Mortal",
-            "stars": 1514
+            "stars": 1516
           }
         },
         {
@@ -526,7 +526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:19:32.124Z",
+    "last_updated": "2026-08-13T12:35:32.961Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
     "enhanced_repository": "enhansome/enhansome-game-ai",
