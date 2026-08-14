@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T19:24:26Z",
+            "last_commit": "2026-08-14T00:36:00Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19626
+            "stars": 19627
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5409
+            "stars": 5411
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2025-01-01T19:59:02Z",
             "owner": "suragnair",
             "repo": "alpha-zero-general",
-            "stars": 4498
+            "stars": 4499
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3538
+            "stars": 3537
           }
         }
       ],
@@ -177,7 +177,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4642
+            "stars": 4643
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2019-07-30T03:58:58Z",
             "owner": "songbaoming",
             "repo": "DouDiZhu",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2024-04-24T00:40:39Z",
             "owner": "junxiaosong",
             "repo": "AlphaZero_Gomoku",
-            "stars": 3623
+            "stars": 3624
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2025-09-28T14:29:24Z",
             "owner": "Equim-chan",
             "repo": "Mortal",
-            "stars": 1516
+            "stars": 1518
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4642
+            "stars": 4643
           }
         },
         {
@@ -526,7 +526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:35:32.961Z",
+    "last_updated": "2026-08-14T12:30:57.953Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
     "enhanced_repository": "enhansome/enhansome-game-ai",
