@@ -39,7 +39,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19627
+            "stars": 19628
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5411
+            "stars": 5412
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4642
+            "stars": 4644
           }
         },
         {
@@ -259,7 +259,7 @@
             "last_commit": "2024-07-23T16:54:42Z",
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8303
+            "stars": 8305
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2025-09-28T14:29:24Z",
             "owner": "Equim-chan",
             "repo": "Mortal",
-            "stars": 1516
+            "stars": 1519
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4642
+            "stars": 4644
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2024-03-01T08:20:45Z",
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1511
+            "stars": 1512
           }
         },
         {
@@ -526,7 +526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:00:29.989Z",
+    "last_updated": "2026-08-16T12:00:46.022Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
     "enhanced_repository": "enhansome/enhansome-game-ai",
