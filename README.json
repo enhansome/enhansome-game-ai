@@ -1,497 +1,510 @@
 {
   "items": [
     {
-      "description": "Game AI is focusing on predicting which actions should be taken, based on the current conditions. Generally, most games incorporate some sort of AI, which are usually characters or players in the game. For some popular games such as Starcraft and Dota 2, developers have spent years to design and refine the AI to enhance the experience.",
-      "items": [],
-      "title": "What is Game AI?"
-    },
-    {
-      "description": "Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, Deep Q-learning is successfully applied to Atari Games. Other examples include Super Mario, Minecraft, and Flappy Bird.\nMulti-agent environments are more challenging since each player has to reason about the other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, AlphaGo, for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, AlphaZero taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as Libratus, DeepStack and DouZero, achieving expert-level performance in Texas Hold'em and Chinese Poker game Dou Dizhu. Now researchers keep progressing and achieve human-level AI on Dota 2 and Starcraft 2 with deep reinforcement learning.",
-      "items": [],
-      "title": "Single-Agent vs. Multi-Agent"
-    },
-    {
-      "description": "Perfect information means that each player has access to the same information of the game, e.g., Go, Chess, and Gomoku. Imperfect information refers to the situation where players can not observe the full state of the game. For example, in card games, a player can not observe the hands of the other players. Imperfect information games are usually considered more challenging with more possibilities.",
-      "items": [],
-      "title": "Perfect Information vs. Imperfect Information"
-    },
-    {
-      "description": "This repository gathers some awesome resources for Game AI on multi-agent learning for both perfect and imperfect information games, including but not limited to, open-source projects, review papers, research papers, conferences, and competitions. The resources are categorized by games, and the papers are sorted by years.",
-      "items": [],
-      "title": "What is included?"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unity ML-Agents Toolkit [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102904613,
+                "language": "C#",
+                "last_commit": "2026-08-14T19:19:50Z",
+                "owner": "Unity-Technologies",
+                "repo": "ml-agents",
+                "stars": 19634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSpiel: A Framework for Reinforcement Learning in Games [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198232685,
+                "language": "C++",
+                "last_commit": "2026-08-12T21:12:55Z",
+                "owner": "google-deepmind",
+                "repo": "open_spiel",
+                "stars": 5418
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alpha Zero General [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112687645,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-01-01T19:59:02Z",
+                "owner": "suragnair",
+                "repo": "alpha-zero-general",
+                "stars": 4500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RLCard: A Toolkit for Reinforcement Learning in Card Games [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206562316,
+                "language": "Python",
+                "last_commit": "2024-06-26T23:01:52Z",
+                "owner": "datamllab",
+                "repo": "rlcard",
+                "stars": 3541
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unified Toolkits"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep mind pokerbot for pokerstars and partypoker [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55018634,
+                "language": "Python",
+                "last_commit": "2025-06-26T21:29:10Z",
+                "owner": "dickreuter",
+                "repo": "Poker",
+                "stars": 2446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepStack-Leduc [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87287957,
+                "language": "Lua",
+                "last_commit": "2018-01-06T23:02:27Z",
+                "owner": "lifrordi",
+                "repo": "DeepStack-Leduc",
+                "stars": 949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyPokerEngine [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60441516,
+                "language": "Python",
+                "last_commit": "2024-04-10T13:40:46Z",
+                "owner": "ishikota",
+                "repo": "PyPokerEngine",
+                "stars": 722
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepHoldem [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135945287,
+                "language": "Lua",
+                "last_commit": "2018-09-25T17:33:08Z",
+                "owner": "happypepper",
+                "repo": "DeepHoldem",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116594631,
+                "language": "Python",
+                "last_commit": "2019-10-16T15:42:38Z",
+                "owner": "wenkesj",
+                "repo": "holdem",
+                "stars": 163
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Texas Hold'em Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373010014,
+                "language": "Python",
+                "last_commit": "2024-06-26T23:02:16Z",
+                "owner": "kwai",
+                "repo": "DouZero",
+                "stars": 4646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DouDiZhu [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32849554,
+                "language": "C++",
+                "last_commit": "2019-07-30T03:58:58Z",
+                "owner": "songbaoming",
+                "repo": "DouDiZhu",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "斗地主AI设计与实现 [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134342688,
+                "language": "C++",
+                "last_commit": "2019-06-03T12:03:17Z",
+                "owner": "ZhouWeikuan",
+                "repo": "DouDiZhu",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PerfectDou: Dominating DouDizhu with Perfect Information Distillation [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544096803,
+                "language": "Python",
+                "last_commit": "2024-05-14T12:52:58Z",
+                "owner": "Netease-Games-AI-Lab-Guangzhou",
+                "repo": "PerfectDou",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dou Di Zhu with Combinational Q-Learning [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103203596,
+                "language": "Python",
+                "last_commit": "2026-06-13T02:40:49Z",
+                "owner": "qq456cvb",
+                "repo": "doudizhu-C",
+                "stars": 164
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dou Dizhu Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StarCraft II Learning Environment [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98336690,
+                "language": "Python",
+                "last_commit": "2024-07-23T16:54:42Z",
+                "owner": "google-deepmind",
+                "repo": "pysc2",
+                "stars": 8307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A reimplementation of Alphastar based on DI-engine with trained models [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382817371,
+                "language": "Python",
+                "last_commit": "2025-03-13T10:36:57Z",
+                "owner": "opendilab",
+                "repo": "DI-star",
+                "stars": 1391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StartCraft II Reinforcement Learning Examples [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100801075,
+                "language": "Python",
+                "last_commit": "2021-03-03T00:40:33Z",
+                "owner": "chris-chris",
+                "repo": "pysc2-examples",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gym StarCraft [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78486061,
+                "language": "Python",
+                "last_commit": "2017-07-06T01:33:07Z",
+                "owner": "alibaba",
+                "repo": "gym-starcraft",
+                "stars": 527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Guide to DeepMind's StarCraft AI Environment [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103381785,
+                "language": "Python",
+                "last_commit": "2021-02-01T18:02:47Z",
+                "owner": "llSourcell",
+                "repo": "A-Guide-to-DeepMinds-StarCraft-AI-Environment",
+                "stars": 208
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Starcraft Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AlphaZero-Gomoku [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114990078,
+                "language": "Python",
+                "last_commit": "2024-04-24T00:40:39Z",
+                "owner": "junxiaosong",
+                "repo": "AlphaZero_Gomoku",
+                "stars": 3624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gobang [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50583936,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T07:39:52Z",
+                "owner": "lihongxun945",
+                "repo": "gobang",
+                "stars": 1800
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gomoku Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chess-Alpha-Zero [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111276294,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-24T22:22:17Z",
+                "owner": "Zeta36",
+                "repo": "chess-alpha-zero",
+                "stars": 2223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple chess AI [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86689770,
+                "language": "JavaScript",
+                "last_commit": "2017-10-16T09:32:12Z",
+                "owner": "lhartikk",
+                "repo": "simple-chess-ai",
+                "stars": 949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Pink [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22991513,
+                "language": "Python",
+                "last_commit": "2017-02-20T17:09:40Z",
+                "owner": "erikbern",
+                "repo": "deep-pink",
+                "stars": 832
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chess Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mortal [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388840351,
+                "language": "Rust",
+                "last_commit": "2025-09-28T14:29:24Z",
+                "owner": "Equim-chan",
+                "repo": "Mortal",
+                "stars": 1522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pymahjong (Japanese Riichi Mahjong) [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177256913,
+                "language": "Python",
+                "last_commit": "2026-06-09T15:39:39Z",
+                "owner": "Agony5757",
+                "repo": "mahjong",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mahjong Projects"
+        }
+      ],
       "title": "Open-Source Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Unity ML-Agents Toolkit [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-14T19:19:50Z",
-            "owner": "Unity-Technologies",
-            "repo": "ml-agents",
-            "stars": 19631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSpiel: A Framework for Reinforcement Learning in Games [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-12T21:12:55Z",
-            "owner": "google-deepmind",
-            "repo": "open_spiel",
-            "stars": 5413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alpha Zero General [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-01-01T19:59:02Z",
-            "owner": "suragnair",
-            "repo": "alpha-zero-general",
-            "stars": 4498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RLCard: A Toolkit for Reinforcement Learning in Card Games [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-26T23:01:52Z",
-            "owner": "datamllab",
-            "repo": "rlcard",
-            "stars": 3540
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373010014,
+                "language": "Python",
+                "last_commit": "2024-06-26T23:02:16Z",
+                "owner": "kwai",
+                "repo": "DouZero",
+                "stars": 4646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544096803,
+                "language": "Python",
+                "last_commit": "2024-05-14T12:52:58Z",
+                "owner": "Netease-Games-AI-Lab-Guangzhou",
+                "repo": "PerfectDou",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Combinational Q-Learning for Dou Di Zhu, arXiv 2019 [paper",
+              "description": "] [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103203596,
+                "language": "Python",
+                "last_commit": "2026-06-13T02:40:49Z",
+                "owner": "qq456cvb",
+                "repo": "doudizhu-C",
+                "stars": 164
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dou Dizhu"
         }
       ],
-      "title": "Unified Toolkits"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deep mind pokerbot for pokerstars and partypoker [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-26T21:29:10Z",
-            "owner": "dickreuter",
-            "repo": "Poker",
-            "stars": 2446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepStack-Leduc [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2018-01-06T23:02:27Z",
-            "owner": "lifrordi",
-            "repo": "DeepStack-Leduc",
-            "stars": 949
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyPokerEngine [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-10T13:40:46Z",
-            "owner": "ishikota",
-            "repo": "PyPokerEngine",
-            "stars": 722
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepHoldem [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2018-09-25T17:33:08Z",
-            "owner": "happypepper",
-            "repo": "DeepHoldem",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-10-16T15:42:38Z",
-            "owner": "wenkesj",
-            "repo": "holdem",
-            "stars": 163
-          }
-        }
-      ],
-      "title": "Texas Hold'em Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-26T23:02:16Z",
-            "owner": "kwai",
-            "repo": "DouZero",
-            "stars": 4645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DouDiZhu [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-07-30T03:58:58Z",
-            "owner": "songbaoming",
-            "repo": "DouDiZhu",
-            "stars": 338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "斗地主AI设计与实现 [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-06-03T12:03:17Z",
-            "owner": "ZhouWeikuan",
-            "repo": "DouDiZhu",
-            "stars": 320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PerfectDou: Dominating DouDizhu with Perfect Information Distillation [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-14T12:52:58Z",
-            "owner": "Netease-Games-AI-Lab-Guangzhou",
-            "repo": "PerfectDou",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dou Di Zhu with Combinational Q-Learning [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-13T02:40:49Z",
-            "owner": "qq456cvb",
-            "repo": "doudizhu-C",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Doudizhu AI using reinforcement learning [code",
-          "description": "].",
-          "children": []
-        }
-      ],
-      "title": "Dou Dizhu Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "StarCraft II Learning Environment [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-23T16:54:42Z",
-            "owner": "google-deepmind",
-            "repo": "pysc2",
-            "stars": 8306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A reimplementation of Alphastar based on DI-engine with trained models [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-13T10:36:57Z",
-            "owner": "opendilab",
-            "repo": "DI-star",
-            "stars": 1391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StartCraft II Reinforcement Learning Examples [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-03T00:40:33Z",
-            "owner": "chris-chris",
-            "repo": "pysc2-examples",
-            "stars": 756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gym StarCraft [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-07-06T01:33:07Z",
-            "owner": "alibaba",
-            "repo": "gym-starcraft",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A Guide to DeepMind's StarCraft AI Environment [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-01T18:02:47Z",
-            "owner": "llSourcell",
-            "repo": "A-Guide-to-DeepMinds-StarCraft-AI-Environment",
-            "stars": 208
-          }
-        }
-      ],
-      "title": "Starcraft Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AlphaZero-Gomoku [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-24T00:40:39Z",
-            "owner": "junxiaosong",
-            "repo": "AlphaZero_Gomoku",
-            "stars": 3624
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gobang [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T07:39:52Z",
-            "owner": "lihongxun945",
-            "repo": "gobang",
-            "stars": 1799
-          }
-        }
-      ],
-      "title": "Gomoku Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Chess-Alpha-Zero [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-03-24T22:22:17Z",
-            "owner": "Zeta36",
-            "repo": "chess-alpha-zero",
-            "stars": 2224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple chess AI [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-10-16T09:32:12Z",
-            "owner": "lhartikk",
-            "repo": "simple-chess-ai",
-            "stars": 949
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Pink [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-02-20T17:09:40Z",
-            "owner": "erikbern",
-            "repo": "deep-pink",
-            "stars": 832
-          }
-        }
-      ],
-      "title": "Chess Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mortal [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-09-28T14:29:24Z",
-            "owner": "Equim-chan",
-            "repo": "Mortal",
-            "stars": 1521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pymahjong (Japanese Riichi Mahjong) [code",
-          "description": "].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-09T15:39:39Z",
-            "owner": "Agony5757",
-            "repo": "mahjong",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "Mahjong Projects"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Research Papers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-26T23:02:16Z",
-            "owner": "kwai",
-            "repo": "DouZero",
-            "stars": 4645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-14T12:52:58Z",
-            "owner": "Netease-Games-AI-Lab-Guangzhou",
-            "repo": "PerfectDou",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Combinational Q-Learning for Dou Di Zhu, arXiv 2019 [paper",
-          "description": "] [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-13T02:40:49Z",
-            "owner": "qq456cvb",
-            "repo": "doudizhu-C",
-            "stars": 164
-          }
-        }
-      ],
-      "title": "Dou Dizhu"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -500,6 +513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80825974,
             "language": "HTML",
             "last_commit": "2024-03-01T08:20:45Z",
             "owner": "tigerneil",
@@ -514,6 +528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73461685,
             "language": null,
             "last_commit": "2022-02-03T06:23:37Z",
             "owner": "SKTBrain",
@@ -526,8 +541,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:14:43.376Z",
+    "last_updated": "2026-08-19T12:21:44.791Z",
     "original_repository": "datamllab/awesome-game-ai",
+    "original_repository_id": 216243021,
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
     "enhanced_repository": "enhansome/enhansome-game-ai",
     "enhanced_repository_description": null,
