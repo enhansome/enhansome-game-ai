@@ -1,14 +1,14 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,657 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,038 | 🐛 105 | 📅 2026-08-18
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
 If you want to contribute to this list, please feel free to send a pull request. Also you can contact <daochen.zha@rice.edu>, or <khlai@rice.edu>.
 
-:loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm) ⭐ 112 | 🐛 0 | 🌐 Python | 📅 2025-09-08!
+:loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2025-09-08!
 
-:loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI) ⭐ 1,156 | 🐛 2 | 📅 2024-06-26!
+:loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI) ⭐ 1,157 | 🐛 2 | 📅 2024-06-26!
 
 ## What is Game AI?
 
@@ -55,14 +55,14 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,634 | 🐛 20 | 🌐 C# | 📅 2026-08-14].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,418 | 🐛 50 | 🌐 C++ | 📅 2026-08-12].
-* Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,500 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,639 | 🐛 20 | 🌐 C# | 📅 2026-08-14].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,423 | 🐛 50 | 🌐 C++ | 📅 2026-08-12].
+* Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,501 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,541 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
-* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,446 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
+* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,447 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
 * DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 949 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
 * PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 722 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
 * DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 220 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
@@ -91,7 +91,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Gomoku Projects
 
-* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,624 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
+* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,623 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
 * gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,800 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-13].
 
 ### Chess Projects
@@ -192,4 +192,4 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T19:19:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19634
+                "stars": 19639
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-12T21:12:55Z",
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5418
+                "stars": 5423
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-01-01T19:59:02Z",
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
-                "stars": 4500
+                "stars": 4501
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2025-06-26T21:29:10Z",
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2446
+                "stars": 2447
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2024-04-24T00:40:39Z",
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
-                "stars": 3624
+                "stars": 3623
               }
             },
             {
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:44.791Z",
+    "last_updated": "2026-08-20T12:15:49.061Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_id": 216243021,
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
