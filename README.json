@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T19:19:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19639
+                "stars": 19642
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-12T21:12:55Z",
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5423
+                "stars": 5424
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2024-06-26T23:01:52Z",
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3541
+                "stars": 3542
               }
             }
           ],
@@ -84,7 +84,7 @@
                 "last_commit": "2025-06-26T21:29:10Z",
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2447
+                "stars": 2448
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2019-06-03T12:03:17Z",
                 "owner": "ZhouWeikuan",
                 "repo": "DouDiZhu",
-                "stars": 320
+                "stars": 321
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2026-08-13T07:39:52Z",
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1800
+                "stars": 1799
               }
             }
           ],
@@ -419,7 +419,7 @@
                 "last_commit": "2025-09-28T14:29:24Z",
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1522
+                "stars": 1524
               }
             },
             {
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T12:15:49.061Z",
+    "last_updated": "2026-08-21T12:15:21.871Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_id": 216243021,
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
