@@ -62,7 +62,7 @@
                 "last_commit": "2024-06-26T23:01:52Z",
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3541
+                "stars": 3540
               }
             }
           ],
@@ -166,7 +166,7 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4648
+                "stars": 4649
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2024-07-23T16:54:42Z",
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8309
+                "stars": 8307
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2023-03-24T22:22:17Z",
                 "owner": "Zeta36",
                 "repo": "chess-alpha-zero",
-                "stars": 2223
+                "stars": 2224
               }
             },
             {
@@ -397,7 +397,7 @@
                 "last_commit": "2017-02-20T17:09:40Z",
                 "owner": "erikbern",
                 "repo": "deep-pink",
-                "stars": 832
+                "stars": 833
               }
             }
           ],
@@ -462,7 +462,7 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4648
+                "stars": 4649
               }
             },
             {
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:01:18.261Z",
+    "last_updated": "2026-08-24T12:16:13.268Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_id": 216243021,
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
