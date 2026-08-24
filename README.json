@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T19:19:50Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19643
+                "stars": 19642
               }
             },
             {
@@ -320,6 +320,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation [code",
+              "description": "] [paper].",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 131213051,
+                "language": "C++",
+                "last_commit": "2019-06-21T01:50:03Z",
+                "owner": "pytorch",
+                "repo": "ELF",
+                "stars": 3411
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AlphaZero-Gomoku [code",
               "description": "].",
               "children": [],
@@ -404,6 +426,28 @@
           "description": null,
           "node_type": "group",
           "title": "Chess Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCZero (中国象棋Zero) [code",
+              "description": "].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119518960,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:26:39Z",
+                "owner": "NeymarL",
+                "repo": "ChineseChess-AlphaZero",
+                "stars": 1242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chinese Chess Projects"
         },
         {
           "children": [
@@ -541,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:16:13.268Z",
+    "last_updated": "2026-08-24T14:19:01.325Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_id": 216243021,
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
