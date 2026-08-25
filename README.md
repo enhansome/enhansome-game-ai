@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | 📅 2026-08-21
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -16,7 +16,7 @@ Game AI is focusing on predicting which actions should be taken, based on the cu
 
 ## Single-Agent vs. Multi-Agent
 
-Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai) ⭐ 693 | 🐛 3 | 🌐 Lua | 📅 2016-05-26, [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) ⭐ 6,819 | 🐛 42 | 🌐 Python | 📅 2024-08-07.
+Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai) ⭐ 693 | 🐛 3 | 🌐 Lua | 📅 2016-05-26, [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) ⭐ 6,818 | 🐛 42 | 🌐 Python | 📅 2024-08-07.
 
 Multi-agent environments are more challenging since each player has to reason about the other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as [Libratus](https://science.sciencemag.org/content/359/6374/418), [DeepStack](https://science.sciencemag.org/content/356/6337/508) and [DouZero](https://github.com/kwai/DouZero) ⭐ 4,649 | 🐛 35 | 🌐 Python | 📅 2024-06-26, achieving expert-level performance in Texas Hold'em and Chinese Poker game Dou Dizhu. Now researchers keep progressing and achieve human-level AI on [Dota 2](https://openai.com/five/) and [Starcraft 2](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) with deep reinforcement learning.
 
@@ -56,8 +56,8 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Unified Toolkits
 
 * Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,642 | 🐛 20 | 🌐 C# | 📅 2026-08-14].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,431 | 🐛 50 | 🌐 C++ | 📅 2026-08-12].
-* Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,501 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,432 | 🐛 50 | 🌐 C++ | 📅 2026-08-12].
+* Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,504 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,540 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
@@ -80,7 +80,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Starcraft Projects
 
 * StarCraft II Learning Environment \[[paper](https://arxiv.org/abs/1708.04782)] \[[code](https://github.com/deepmind/pysc2) ⭐ 8,307 | 🐛 64 | 🌐 Python | 📅 2024-07-23].
-* A reimplementation of Alphastar based on DI-engine with trained models \[[code](https://github.com/opendilab/DI-star) ⭐ 1,391 | 🐛 1 | 🌐 Python | 📅 2025-03-13].
+* A reimplementation of Alphastar based on DI-engine with trained models \[[code](https://github.com/opendilab/DI-star) ⭐ 1,393 | 🐛 1 | 🌐 Python | 📅 2025-03-13].
 * StartCraft II Reinforcement Learning Examples \[[code](https://github.com/chris-chris/pysc2-examples) ⭐ 756 | 🐛 26 | 🌐 Python | 📅 2021-03-03].
 * Gym StarCraft \[[code](https://github.com/alibaba/gym-starcraft) ⭐ 527 | 🐛 4 | 🌐 Python | 📅 2017-07-06].
 * A Guide to DeepMind's StarCraft AI Environment \[[code](https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment) ⭐ 209 | 🐛 14 | 🌐 Python | 📅 2021-02-01].
@@ -187,9 +187,9 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ## Related Lists
 
-* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,513 | 🐛 1 | 🌐 HTML | 📅 2024-03-01
+* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,512 | 🐛 1 | 🌐 HTML | 📅 2024-03-01
 * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI) ⭐ 642 | 🐛 3 | 📅 2022-02-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
