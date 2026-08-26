@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T08:41:37Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19644
+                "stars": 19645
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 198232685,
                 "language": "C++",
-                "last_commit": "2026-08-12T21:12:55Z",
+                "last_commit": "2026-08-25T22:34:39Z",
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5433
+                "stars": 5435
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-01-01T19:59:02Z",
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
-                "stars": 4505
+                "stars": 4506
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4651
+                "stars": 4652
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2024-05-14T12:52:58Z",
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
-                "stars": 235
+                "stars": 237
               }
             },
             {
@@ -463,7 +463,7 @@
                 "last_commit": "2025-09-28T14:29:24Z",
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1526
+                "stars": 1527
               }
             },
             {
@@ -506,7 +506,7 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4651
+                "stars": 4652
               }
             },
             {
@@ -521,7 +521,7 @@
                 "last_commit": "2024-05-14T12:52:58Z",
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
-                "stars": 235
+                "stars": 237
               }
             },
             {
@@ -562,7 +562,7 @@
             "last_commit": "2024-03-01T08:20:45Z",
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1512
+            "stars": 1513
           }
         },
         {
@@ -585,7 +585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:16:42.076Z",
+    "last_updated": "2026-08-26T12:18:34.573Z",
     "original_repository": "datamllab/awesome-game-ai",
     "original_repository_id": 216243021,
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
