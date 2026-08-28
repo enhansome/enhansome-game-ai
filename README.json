@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-25T08:41:37Z",
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19650
-              }
+                "stars": 19652
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-25T22:34:39Z",
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5438
-              }
+                "stars": 5440
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
                 "stars": 4507
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2024-06-26T23:01:52Z",
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3540
-              }
+                "stars": 3541
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -84,8 +88,9 @@
                 "last_commit": "2025-06-26T21:29:10Z",
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2454
-              }
+                "stars": 2456
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "lifrordi",
                 "repo": "DeepStack-Leduc",
                 "stars": 950
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ishikota",
                 "repo": "PyPokerEngine",
                 "stars": 721
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "happypepper",
                 "repo": "DeepHoldem",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "wenkesj",
                 "repo": "holdem",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -166,8 +175,9 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4652
-              }
+                "stars": 4653
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "songbaoming",
                 "repo": "DouDiZhu",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -196,8 +207,9 @@
                 "last_commit": "2019-06-03T12:03:17Z",
                 "owner": "ZhouWeikuan",
                 "repo": "DouDiZhu",
-                "stars": 321
-              }
+                "stars": 319
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "qq456cvb",
                 "repo": "doudizhu-C",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "google-deepmind",
                 "repo": "pysc2",
                 "stars": 8307
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "opendilab",
                 "repo": "DI-star",
                 "stars": 1393
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "chris-chris",
                 "repo": "pysc2-examples",
                 "stars": 756
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "alibaba",
                 "repo": "gym-starcraft",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "llSourcell",
                 "repo": "A-Guide-to-DeepMinds-StarCraft-AI-Environment",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -331,7 +350,8 @@
                 "owner": "pytorch",
                 "repo": "ELF",
                 "stars": 3411
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -353,7 +373,8 @@
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
                 "stars": 3625
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "lihongxun945",
                 "repo": "gobang",
                 "stars": 1801
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -390,7 +412,8 @@
                 "owner": "Zeta36",
                 "repo": "chess-alpha-zero",
                 "stars": 2224
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "lhartikk",
                 "repo": "simple-chess-ai",
                 "stars": 949
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -420,7 +444,8 @@
                 "owner": "erikbern",
                 "repo": "deep-pink",
                 "stars": 833
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -441,8 +466,9 @@
                 "last_commit": "2023-03-24T22:26:39Z",
                 "owner": "NeymarL",
                 "repo": "ChineseChess-AlphaZero",
-                "stars": 1242
-              }
+                "stars": 1243
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -464,7 +490,8 @@
                 "owner": "Equim-chan",
                 "repo": "Mortal",
                 "stars": 1530
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -479,7 +506,8 @@
                 "owner": "Agony5757",
                 "repo": "mahjong",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -506,8 +534,9 @@
                 "last_commit": "2024-06-26T23:02:16Z",
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4652
-              }
+                "stars": 4653
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -522,7 +551,8 @@
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             },
             {
               "node_type": "item",
@@ -537,7 +567,8 @@
                 "owner": "qq456cvb",
                 "repo": "doudizhu-C",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T21:32:00.129Z"
             }
           ],
           "description": null,
@@ -563,7 +594,8 @@
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
             "stars": 1513
-          }
+          },
+          "first_seen": "2026-08-28T21:32:00.129Z"
         },
         {
           "node_type": "item",
@@ -578,14 +610,15 @@
             "owner": "SKTBrain",
             "repo": "awesome-starcraftAI",
             "stars": 642
-          }
+          },
+          "first_seen": "2026-08-28T21:32:00.129Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:24.735Z",
+    "last_updated": "2026-08-28T21:32:00.129Z",
     "original_repository_info": {
       "archived": false,
       "id": 216243021,
