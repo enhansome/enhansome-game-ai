@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+                "homepage": "https://unity.com/products/machine-learning-agents",
                 "id": 102904613,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T08:41:37Z",
+                "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19652
+                "stars": 19653,
+                "topics": [
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "machine-learning",
+                  "neural-networks",
+                  "reinforcement-learning",
+                  "unity",
+                  "unity3d"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -28,12 +41,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
+                "homepage": null,
                 "id": 198232685,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:34:39Z",
+                "open_issues": 43,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5440
+                "stars": 5441,
+                "topics": [
+                  "cpp",
+                  "games",
+                  "multiagent",
+                  "python",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -44,12 +68,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more",
+                "homepage": null,
                 "id": 112687645,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-01-01T19:59:02Z",
+                "open_issues": 75,
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
-                "stars": 4507
+                "stars": 4507,
+                "topics": [
+                  "alpha-zero",
+                  "alphago",
+                  "alphago-zero",
+                  "alphazero",
+                  "deep-learning",
+                  "gobang",
+                  "gomoku",
+                  "keras",
+                  "mcts",
+                  "monte-carlo-tree-search",
+                  "neural-network",
+                  "othello",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "self-play",
+                  "tensorflow",
+                  "tf"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -60,12 +107,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.",
+                "homepage": "http://www.rlcard.org",
                 "id": 206562316,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-26T23:01:52Z",
+                "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3541
+                "stars": 3541,
+                "topics": [
+                  "ai",
+                  "blackjack",
+                  "card-game",
+                  "card-games",
+                  "deep-reinforcement-learning",
+                  "doudizhu",
+                  "game",
+                  "game-ai",
+                  "game-bot",
+                  "gym-environment",
+                  "mahjong",
+                  "multi-agent",
+                  "openai-gym",
+                  "poker",
+                  "poker-game",
+                  "reinforcement-learning",
+                  "texas",
+                  "uno"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -83,12 +154,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and montecarlo simulation for poker equity calculation. Binaries can be downloaded with this link:",
+                "homepage": "http://www.deepermind-pokerbot.com",
                 "id": 55018634,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-26T21:29:10Z",
+                "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2456
+                "stars": 2457,
+                "topics": [
+                  "artificial-intelligence",
+                  "poker",
+                  "pokerstars"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -99,12 +179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example implementation of the DeepStack algorithm for no-limit Leduc poker",
+                "homepage": "https://www.deepstack.ai/",
                 "id": 87287957,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2018-01-06T23:02:27Z",
+                "open_issues": 14,
                 "owner": "lifrordi",
                 "repo": "DeepStack-Leduc",
-                "stars": 950
+                "stars": 950,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -115,12 +200,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poker engine for poker AI development in Python",
+                "homepage": "https://ishikota.github.io/PyPokerEngine/",
                 "id": 60441516,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-10T13:40:46Z",
+                "open_issues": 21,
                 "owner": "ishikota",
                 "repo": "PyPokerEngine",
-                "stars": 721
+                "stars": 721,
+                "topics": [
+                  "ai-poker-game",
+                  "poker-engine",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -131,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 135945287,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2018-09-25T17:33:08Z",
+                "open_issues": 24,
                 "owner": "happypepper",
                 "repo": "DeepHoldem",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -147,12 +246,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":black_joker: OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning",
+                "homepage": null,
                 "id": 116594631,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-10-16T15:42:38Z",
+                "open_issues": 11,
                 "owner": "wenkesj",
                 "repo": "holdem",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "openai-gym",
+                  "reinforcement-learning",
+                  "texas-holdem-poker"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -170,12 +278,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
+                "homepage": "https://douzero.org/",
                 "id": 373010014,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-26T23:02:16Z",
+                "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4653
+                "stars": 4653,
+                "topics": [
+                  "doudizhu",
+                  "game-ai",
+                  "poker",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -186,12 +304,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI斗地主游戏",
+                "homepage": null,
                 "id": 32849554,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-07-30T03:58:58Z",
+                "open_issues": 3,
                 "owner": "songbaoming",
                 "repo": "DouDiZhu",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "c-plus-plus",
+                  "doudizhu",
+                  "game",
+                  "mfc",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -202,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于权重的斗地主游戏AI算法，AI algorithms for chinese landlord card game, based on weights",
+                "homepage": "http://www.cronlygames.com/download/download.php?p=com.cronlygames.landlord",
                 "id": 134342688,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-03T12:03:17Z",
+                "open_issues": 1,
                 "owner": "ZhouWeikuan",
                 "repo": "DouDiZhu",
-                "stars": 319
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -218,12 +352,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] PerfectDou: Dominating DouDizhu with Perfect Information Distillation ",
+                "homepage": "https://outer-perfectdou-demo-gzailab.nie.netease.com",
                 "id": 544096803,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-14T12:52:58Z",
+                "open_issues": 4,
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "deep-learning",
+                  "gameai",
+                  "imperfect-information-games",
+                  "pocker",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -234,12 +379,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++/python fight the lord with pybind11 (强化学习AI斗地主), Accepted to AIIDE-2020",
+                "homepage": null,
                 "id": 103203596,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-13T02:40:49Z",
+                "open_issues": 2,
                 "owner": "qq456cvb",
                 "repo": "doudizhu-C",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "algorithm",
+                  "dou-di-zhu"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -257,12 +410,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StarCraft II Learning Environment",
+                "homepage": null,
                 "id": 98336690,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-23T16:54:42Z",
+                "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8307
+                "stars": 8307,
+                "topics": [
+                  "blizzard-api",
+                  "deepmind",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "starcraft-ii",
+                  "starcraft-ii-replays"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -273,12 +438,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An artificial intelligence platform for the StarCraft II with large-scale distributed training and grand-master agents.",
+                "homepage": null,
                 "id": 382817371,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-13T10:36:57Z",
+                "open_issues": 1,
                 "owner": "opendilab",
                 "repo": "DI-star",
-                "stars": 1393
+                "stars": 1393,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "league",
+                  "reinforcment-learning",
+                  "self-play",
+                  "starcraft2"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -289,12 +467,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StarCraft II - pysc2 Deep Reinforcement Learning Examples",
+                "homepage": null,
                 "id": 100801075,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-03T00:40:33Z",
+                "open_issues": 26,
                 "owner": "chris-chris",
                 "repo": "pysc2-examples",
-                "stars": 756
+                "stars": 756,
+                "topics": [
+                  "ai",
+                  "deep-q-network",
+                  "deep-reinforcement-learning",
+                  "deepmind",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "startcraft2"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -305,12 +496,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft. (In progress) ",
+                "homepage": null,
                 "id": 78486061,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-06T01:33:07Z",
+                "open_issues": 4,
                 "owner": "alibaba",
                 "repo": "gym-starcraft",
-                "stars": 527
+                "stars": 527,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "gym-starcraft",
+                  "openai-gym",
+                  "reinforcement-learning",
+                  "starcraft"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -321,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the code for \"A Guide to DeepMind's StarCraft AI Environment\" by Siraj Raval on Youtube",
+                "homepage": null,
                 "id": 103381785,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-01T18:02:47Z",
+                "open_issues": 14,
                 "owner": "llSourcell",
                 "repo": "A-Guide-to-DeepMinds-StarCraft-AI-Environment",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -344,12 +552,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation",
+                "homepage": null,
                 "id": 131213051,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-21T01:50:03Z",
+                "open_issues": 44,
                 "owner": "pytorch",
                 "repo": "ELF",
-                "stars": 3411
+                "stars": 3411,
+                "topics": [
+                  "alpha-zero",
+                  "alphago-zero",
+                  "go",
+                  "reinforcement-learning",
+                  "rl",
+                  "rl-environment"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -367,12 +587,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row) ",
+                "homepage": null,
                 "id": 114990078,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-24T00:40:39Z",
+                "open_issues": 80,
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
-                "stars": 3625
+                "stars": 3625,
+                "topics": [
+                  "alphago",
+                  "alphago-zero",
+                  "alphazero",
+                  "board-game",
+                  "gobang",
+                  "gomoku",
+                  "mcts",
+                  "monte-carlo-tree-search",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "rl",
+                  "self-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -383,12 +622,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）",
+                "homepage": "https://gobang2.light7.cn/",
                 "id": 50583936,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-13T07:39:52Z",
+                "open_issues": 45,
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1801
+                "stars": 1801,
+                "topics": [
+                  "ai",
+                  "gobang",
+                  "gomoku",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -406,12 +655,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chess reinforcement learning by AlphaGo Zero methods.",
+                "homepage": null,
                 "id": 111276294,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-24T22:22:17Z",
+                "open_issues": 64,
                 "owner": "Zeta36",
                 "repo": "chess-alpha-zero",
-                "stars": 2224
+                "stars": 2224,
+                "topics": [
+                  "alphago-zero",
+                  "chess",
+                  "keras",
+                  "reinforcement-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -422,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple chess AI",
+                "homepage": null,
                 "id": 86689770,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2017-10-16T09:32:12Z",
+                "open_issues": 9,
                 "owner": "lhartikk",
                 "repo": "simple-chess-ai",
-                "stars": 949
+                "stars": 949,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -438,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Pink is a chess AI that learns to play chess using deep learning.",
+                "homepage": "http://erikbern.com/2014/11/29/deep-learning-for-chess/",
                 "id": 22991513,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-02-20T17:09:40Z",
+                "open_issues": 9,
                 "owner": "erikbern",
                 "repo": "deep-pink",
-                "stars": 833
+                "stars": 833,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -461,12 +731,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implement AlphaZero/AlphaGo Zero methods on Chinese chess.",
+                "homepage": "https://cczero.org",
                 "id": 119518960,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-24T22:26:39Z",
+                "open_issues": 26,
                 "owner": "NeymarL",
                 "repo": "ChineseChess-AlphaZero",
-                "stars": 1243
+                "stars": 1243,
+                "topics": [
+                  "alphazero",
+                  "chinese-chess",
+                  "deep-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -484,12 +764,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.",
+                "homepage": "https://mortal.ekyu.moe",
                 "id": 388840351,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-28T14:29:24Z",
+                "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1530
+                "stars": 1531,
+                "topics": [
+                  "ai",
+                  "deep-learning",
+                  "game-ai",
+                  "mahjong",
+                  "mahjong-ai",
+                  "mjai",
+                  "reinforcement-learning",
+                  "riichi"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -500,12 +794,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++版日麻. Japanese Riichi Mahjong written in C++.",
+                "homepage": "https://agony5757.github.io/mahjong/",
                 "id": 177256913,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-09T15:39:39Z",
+                "open_issues": 0,
                 "owner": "Agony5757",
                 "repo": "mahjong",
-                "stars": 133
+                "stars": 134,
+                "topics": [
+                  "cpp14",
+                  "japanese-mahjong",
+                  "japanese-mahjong-game",
+                  "mahjong",
+                  "riichi-mahjong"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -529,12 +834,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
+                "homepage": "https://douzero.org/",
                 "id": 373010014,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-26T23:02:16Z",
+                "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4653
+                "stars": 4653,
+                "topics": [
+                  "doudizhu",
+                  "game-ai",
+                  "poker",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -545,12 +860,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] PerfectDou: Dominating DouDizhu with Perfect Information Distillation ",
+                "homepage": "https://outer-perfectdou-demo-gzailab.nie.netease.com",
                 "id": 544096803,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-14T12:52:58Z",
+                "open_issues": 4,
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "deep-learning",
+                  "gameai",
+                  "imperfect-information-games",
+                  "pocker",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             },
@@ -561,12 +887,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++/python fight the lord with pybind11 (强化学习AI斗地主), Accepted to AIIDE-2020",
+                "homepage": null,
                 "id": 103203596,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-13T02:40:49Z",
+                "open_issues": 2,
                 "owner": "qq456cvb",
                 "repo": "doudizhu-C",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "algorithm",
+                  "dou-di-zhu"
+                ]
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
             }
@@ -588,12 +922,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For deep RL and the future of AI. ",
+            "homepage": null,
             "id": 80825974,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-03-01T08:20:45Z",
+            "open_issues": 1,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1513
+            "stars": 1513,
+            "topics": [
+              "aaai",
+              "aamas",
+              "agi",
+              "aistats",
+              "artificial-general-intelligence",
+              "deep-reinforcement-learning",
+              "distributional",
+              "exploration-exploitation",
+              "game",
+              "hierarchical-reinforcement-learning",
+              "iclr",
+              "icml",
+              "ijcai",
+              "inverse-rl",
+              "multiagent-reinforcement-learning",
+              "planning",
+              "reinforcement-learning",
+              "reward",
+              "theoretical-computer-science",
+              "uai"
+            ]
           },
           "first_seen": "2026-08-28T21:32:00.129Z"
         },
@@ -604,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources dedicated to StarCraft AI.",
+            "homepage": null,
             "id": 73461685,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-03T06:23:37Z",
+            "open_issues": 3,
             "owner": "SKTBrain",
             "repo": "awesome-starcraftAI",
-            "stars": 642
+            "stars": 642,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:00.129Z"
         }
@@ -618,15 +983,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:00.129Z",
+    "last_updated": "2026-08-29T04:36:19.636Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
+      "homepage": null,
       "id": 216243021,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-06-26T23:02:54Z",
+      "open_issues": 3,
       "owner": "datamllab",
       "repo": "awesome-game-ai",
-      "stars": 977
+      "stars": 977,
+      "topics": [
+        "ai",
+        "awesome",
+        "game-ai",
+        "imperfect-information-games",
+        "multi-agent",
+        "reinforcement-learning"
+      ]
     },
     "original_repository_sha": "85c09c04ba250996623b7a725a1aed9eb239b3dc",
     "enhanced_repository": "enhansome/enhansome-game-ai",
