@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,275 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,614 | 🐛 105 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -16,7 +16,7 @@ Game AI is focusing on predicting which actions should be taken, based on the cu
 
 ## Single-Agent vs. Multi-Agent
 
-Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai) ⭐ 693 | 🐛 3 | 🌐 Lua | 📅 2016-05-26, [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) ⭐ 6,820 | 🐛 42 | 🌐 Python | 📅 2024-08-07.
+Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai) ⭐ 693 | 🐛 3 | 🌐 Lua | 📅 2016-05-26, [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) ⭐ 6,819 | 🐛 43 | 🌐 Python | 📅 2024-08-07.
 
 Multi-agent environments are more challenging since each player has to reason about the other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as [Libratus](https://science.sciencemag.org/content/359/6374/418), [DeepStack](https://science.sciencemag.org/content/356/6337/508) and [DouZero](https://github.com/kwai/DouZero) ⭐ 4,659 | 🐛 35 | 🌐 Python | 📅 2024-06-26, achieving expert-level performance in Texas Hold'em and Chinese Poker game Dou Dizhu. Now researchers keep progressing and achieve human-level AI on [Dota 2](https://openai.com/five/) and [Starcraft 2](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) with deep reinforcement learning.
 
@@ -55,16 +55,16 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,653 | 🐛 21 | 🌐 C# | 📅 2026-08-25].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,452 | 🐛 51 | 🌐 C++ | 📅 2026-08-31].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,658 | 🐛 21 | 🌐 C# | 📅 2026-09-02].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,457 | 🐛 52 | 🌐 C++ | 📅 2026-08-31].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,512 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,541 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
-* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,458 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
+* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,460 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
 * DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 950 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
-* PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 721 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
+* PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 722 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
 * DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 221 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
 * OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning \[[code](https://github.com/wenkesj/holdem) ⭐ 163 | 🐛 11 | 🌐 Python | 📅 2019-10-16].
 
@@ -91,18 +91,18 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Gomoku Projects
 
-* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,627 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
-* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,804 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-13].
+* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,628 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
+* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,805 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-13].
 
 ### Chess Projects
 
 * Chess-Alpha-Zero \[[code](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,224 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24].
-* Simple chess AI \[[code](https://github.com/lhartikk/simple-chess-ai) ⭐ 948 | 🐛 9 | 🌐 JavaScript | 📅 2017-10-16].
+* Simple chess AI \[[code](https://github.com/lhartikk/simple-chess-ai) ⭐ 947 | 🐛 9 | 🌐 JavaScript | 📅 2017-10-16].
 * Deep Pink \[[code](https://github.com/erikbern/deep-pink) ⭐ 833 | 🐛 9 | 🌐 Python | 📅 2017-02-20].
 
 ### Chinese Chess Projects
 
-* CCZero (中国象棋Zero) \[[code](https://github.com/NeymarL/ChineseChess-AlphaZero) ⭐ 1,243 | 🐛 26 | 🌐 Python | 📅 2023-03-24].
+* CCZero (中国象棋Zero) \[[code](https://github.com/NeymarL/ChineseChess-AlphaZero) ⭐ 1,244 | 🐛 26 | 🌐 Python | 📅 2023-03-24].
 
 ### Mahjong Projects
 
@@ -192,4 +192,4 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

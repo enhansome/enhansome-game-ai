@@ -17,11 +17,11 @@
                 "id": 102904613,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-25T08:41:37Z",
+                "last_commit": "2026-09-02T18:38:03Z",
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19653,
+                "stars": 19658,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -47,10 +47,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:35:43Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5452,
+                "stars": 5457,
                 "topics": [
                   "cpp",
                   "games",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2458,
+                "stars": 2460,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -209,7 +209,7 @@
                 "open_issues": 21,
                 "owner": "ishikota",
                 "repo": "PyPokerEngine",
-                "stars": 721,
+                "stars": 722,
                 "topics": [
                   "ai-poker-game",
                   "poker-engine",
@@ -596,7 +596,7 @@
                 "open_issues": 80,
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
-                "stars": 3627,
+                "stars": 3628,
                 "topics": [
                   "alphago",
                   "alphago-zero",
@@ -631,7 +631,7 @@
                 "open_issues": 44,
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1804,
+                "stars": 1805,
                 "topics": [
                   "ai",
                   "gobang",
@@ -691,7 +691,7 @@
                 "open_issues": 9,
                 "owner": "lhartikk",
                 "repo": "simple-chess-ai",
-                "stars": 948,
+                "stars": 947,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
@@ -740,7 +740,7 @@
                 "open_issues": 26,
                 "owner": "NeymarL",
                 "repo": "ChineseChess-AlphaZero",
-                "stars": 1243,
+                "stars": 1244,
                 "topics": [
                   "alphazero",
                   "chinese-chess",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:21:18.787Z",
+    "last_updated": "2026-09-03T15:14:45.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
