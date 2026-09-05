@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19659,
+                "stars": 19662,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -50,7 +50,7 @@
                 "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5458,
+                "stars": 5460,
                 "topics": [
                   "cpp",
                   "games",
@@ -116,7 +116,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3541,
+                "stars": 3542,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2460,
+                "stars": 2461,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8308,
+                "stars": 8309,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -627,11 +627,11 @@
                 "id": 50583936,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-03T16:21:05Z",
+                "last_commit": "2026-09-05T05:37:49Z",
                 "open_issues": 44,
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1805,
+                "stars": 1804,
                 "topics": [
                   "ai",
                   "gobang",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:09:26.839Z",
+    "last_updated": "2026-09-05T14:01:02.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
