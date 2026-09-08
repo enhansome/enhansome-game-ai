@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19661,
+                "stars": 19664,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -50,7 +50,7 @@
                 "open_issues": 53,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5466,
+                "stars": 5469,
                 "topics": [
                   "cpp",
                   "games",
@@ -209,7 +209,7 @@
                 "open_issues": 21,
                 "owner": "ishikota",
                 "repo": "PyPokerEngine",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "ai-poker-game",
                   "poker-engine",
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8308,
+                "stars": 8306,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:40:34.675Z",
+    "last_updated": "2026-09-08T15:22:36.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
