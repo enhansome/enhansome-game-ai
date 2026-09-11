@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19664,
+                "stars": 19671,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -50,7 +50,7 @@
                 "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5472,
+                "stars": 5476,
                 "topics": [
                   "cpp",
                   "games",
@@ -234,7 +234,7 @@
                 "open_issues": 24,
                 "owner": "happypepper",
                 "repo": "DeepHoldem",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8307,
+                "stars": 8308,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -631,7 +631,7 @@
                 "open_issues": 44,
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1804,
+                "stars": 1805,
                 "topics": [
                   "ai",
                   "gobang",
@@ -664,7 +664,7 @@
                 "open_issues": 64,
                 "owner": "Zeta36",
                 "repo": "chess-alpha-zero",
-                "stars": 2224,
+                "stars": 2225,
                 "topics": [
                   "alphago-zero",
                   "chess",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T15:12:50.773Z",
+    "last_updated": "2026-09-11T15:15:39.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
