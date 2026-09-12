@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19671,
+                "stars": 19670,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -47,7 +47,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:35:43Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
                 "stars": 5476,
@@ -116,7 +116,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3546,
+                "stars": 3547,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -287,7 +287,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4664,
+                "stars": 4665,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8308,
+                "stars": 8309,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -561,7 +561,7 @@
                 "open_issues": 44,
                 "owner": "pytorch",
                 "repo": "ELF",
-                "stars": 3412,
+                "stars": 3413,
                 "topics": [
                   "alpha-zero",
                   "alphago-zero",
@@ -843,7 +843,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4664,
+                "stars": 4665,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:15:39.015Z",
+    "last_updated": "2026-09-12T14:24:38.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
@@ -992,7 +992,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-06-26T23:02:54Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "datamllab",
       "repo": "awesome-game-ai",
       "stars": 980,
