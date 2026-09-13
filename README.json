@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19670,
+                "stars": 19672,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -47,10 +47,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:35:43Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5476,
+                "stars": 5478,
                 "topics": [
                   "cpp",
                   "games",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2461,
+                "stars": 2462,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -313,7 +313,7 @@
                 "open_issues": 3,
                 "owner": "songbaoming",
                 "repo": "DouDiZhu",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "c-plus-plus",
                   "doudizhu",
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8309,
+                "stars": 8308,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -740,7 +740,7 @@
                 "open_issues": 26,
                 "owner": "NeymarL",
                 "repo": "ChineseChess-AlphaZero",
-                "stars": 1247,
+                "stars": 1249,
                 "topics": [
                   "alphazero",
                   "chinese-chess",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:24:38.878Z",
+    "last_updated": "2026-09-13T15:05:43.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
