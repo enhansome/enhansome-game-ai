@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19672,
+                "stars": 19675,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -47,10 +47,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:35:43Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5478,
+                "stars": 5484,
                 "topics": [
                   "cpp",
                   "games",
@@ -561,7 +561,7 @@
                 "open_issues": 44,
                 "owner": "pytorch",
                 "repo": "ELF",
-                "stars": 3413,
+                "stars": 3412,
                 "topics": [
                   "alpha-zero",
                   "alphago-zero",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1548,
+                "stars": 1552,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:05:43.539Z",
+    "last_updated": "2026-09-14T17:03:56.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
