@@ -17,11 +17,11 @@
                 "id": 102904613,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T13:49:40Z",
+                "last_commit": "2026-09-17T19:34:51Z",
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19685,
+                "stars": 19690,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -47,7 +47,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:35:43Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
                 "stars": 5490,
@@ -116,7 +116,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3548,
+                "stars": 3550,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2463,
+                "stars": 2465,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -561,7 +561,7 @@
                 "open_issues": 44,
                 "owner": "pytorch",
                 "repo": "ELF",
-                "stars": 3412,
+                "stars": 3411,
                 "topics": [
                   "alpha-zero",
                   "alphago-zero",
@@ -631,7 +631,7 @@
                 "open_issues": 44,
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": [
                   "ai",
                   "gobang",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1552,
+                "stars": 1554,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:41:11.275Z",
+    "last_updated": "2026-09-18T15:12:26.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
