@@ -50,7 +50,7 @@
                 "open_issues": 61,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5492,
+                "stars": 5497,
                 "topics": [
                   "cpp",
                   "games",
@@ -116,7 +116,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3551,
+                "stars": 3552,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -447,7 +447,7 @@
                 "open_issues": 1,
                 "owner": "opendilab",
                 "repo": "DI-star",
-                "stars": 1396,
+                "stars": 1397,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -664,7 +664,7 @@
                 "open_issues": 64,
                 "owner": "Zeta36",
                 "repo": "chess-alpha-zero",
-                "stars": 2225,
+                "stars": 2226,
                 "topics": [
                   "alphago-zero",
                   "chess",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1557,
+                "stars": 1561,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:54:57.059Z",
+    "last_updated": "2026-09-21T17:12:52.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",

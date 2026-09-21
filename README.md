@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,106 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,531 | 🐛 106 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -56,9 +56,9 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Unified Toolkits
 
 * Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,695 | 🐛 21 | 🌐 C# | 📅 2026-09-17].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,492 | 🐛 61 | 🌐 C++ | 📅 2026-08-31].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,497 | 🐛 61 | 🌐 C++ | 📅 2026-08-31].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,515 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
-* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,551 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
+* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,552 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
@@ -80,7 +80,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Starcraft Projects
 
 * StarCraft II Learning Environment \[[paper](https://arxiv.org/abs/1708.04782)] \[[code](https://github.com/deepmind/pysc2) ⭐ 8,311 | 🐛 64 | 🌐 Python | 📅 2024-07-23].
-* A reimplementation of Alphastar based on DI-engine with trained models \[[code](https://github.com/opendilab/DI-star) ⭐ 1,396 | 🐛 1 | 🌐 Python | 📅 2025-03-13].
+* A reimplementation of Alphastar based on DI-engine with trained models \[[code](https://github.com/opendilab/DI-star) ⭐ 1,397 | 🐛 1 | 🌐 Python | 📅 2025-03-13].
 * StartCraft II Reinforcement Learning Examples \[[code](https://github.com/chris-chris/pysc2-examples) ⭐ 755 | 🐛 26 | 🌐 Python | 📅 2021-03-03].
 * Gym StarCraft \[[code](https://github.com/alibaba/gym-starcraft) ⭐ 527 | 🐛 4 | 🌐 Python | 📅 2017-07-06].
 * A Guide to DeepMind's StarCraft AI Environment \[[code](https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment) ⭐ 210 | 🐛 14 | 🌐 Python | 📅 2021-02-01].
@@ -96,7 +96,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Chess Projects
 
-* Chess-Alpha-Zero \[[code](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,225 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24].
+* Chess-Alpha-Zero \[[code](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,226 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24].
 * Simple chess AI \[[code](https://github.com/lhartikk/simple-chess-ai) ⭐ 946 | 🐛 9 | 🌐 JavaScript | 📅 2017-10-16].
 * Deep Pink \[[code](https://github.com/erikbern/deep-pink) ⭐ 833 | 🐛 9 | 🌐 Python | 📅 2017-02-20].
 
@@ -106,7 +106,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Mahjong Projects
 
-* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,557 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
+* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,561 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
 * pymahjong (Japanese Riichi Mahjong) \[[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong) ⭐ 134 | 🐛 0 | 🌐 Python | 📅 2026-06-09].
 
 ## Review and General Papers
@@ -192,4 +192,4 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
