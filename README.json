@@ -18,7 +18,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T13:32:59Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
                 "stars": 19722,
@@ -50,7 +50,7 @@
                 "open_issues": 74,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5518,
+                "stars": 5519,
                 "topics": [
                   "cpp",
                   "games",
@@ -384,7 +384,7 @@
                 "id": 103203596,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T13:16:19Z",
+                "last_commit": "2026-10-06T15:21:50Z",
                 "open_issues": 2,
                 "owner": "qq456cvb",
                 "repo": "doudizhu-C",
@@ -892,7 +892,7 @@
                 "id": 103203596,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T13:16:19Z",
+                "last_commit": "2026-10-06T15:21:50Z",
                 "open_issues": 2,
                 "owner": "qq456cvb",
                 "repo": "doudizhu-C",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:24:08.744Z",
+    "last_updated": "2026-10-06T17:25:48.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",

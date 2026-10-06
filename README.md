@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,355 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,554 | 🐛 106 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -8,7 +8,7 @@ If you want to contribute to this list, please feel free to send a pull request.
 
 :loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2025-09-08!
 
-:loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI) ⭐ 1,158 | 🐛 2 | 📅 2024-06-26!
+:loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI) ⭐ 1,157 | 🐛 2 | 📅 2024-06-26!
 
 ## What is Game AI?
 
@@ -55,8 +55,8 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,722 | 🐛 21 | 🌐 C# | 📅 2026-09-29].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,518 | 🐛 74 | 🌐 C++ | 📅 2026-08-31].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,722 | 🐛 20 | 🌐 C# | 📅 2026-09-29].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,519 | 🐛 74 | 🌐 C++ | 📅 2026-08-31].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,520 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,572 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
@@ -74,7 +74,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 * DouDiZhu \[[code](https://github.com/songbaoming/DouDiZhu) ⭐ 339 | 🐛 3 | 🌐 C++ | 📅 2019-07-30].
 * 斗地主AI设计与实现 \[[code](https://github.com/ZhouWeikuan/DouDiZhu) ⭐ 319 | 🐛 1 | 🌐 C++ | 📅 2019-06-03].
 * PerfectDou: Dominating DouDizhu with Perfect Information Distillation \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
-* Dou Di Zhu with Combinational Q-Learning \[[paper](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-05] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-05].
+* Dou Di Zhu with Combinational Q-Learning \[[paper](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-06] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-06].
 * Doudizhu AI using reinforcement learning \[[code](https://github.com/skyduy/doudizhu-rl)].
 
 ### Starcraft Projects
@@ -140,7 +140,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 * DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 \[[paper](https://arxiv.org/abs/2106.06135)] \[[code](https://github.com/kwai/DouZero) ⭐ 4,670 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
 * PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 \[[paper](https://arxiv.org/abs/2203.16406)] \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
-* Combinational Q-Learning for Dou Di Zhu, arXiv 2019 \[[paper](https://arxiv.org/abs/1901.08925)] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-05].
+* Combinational Q-Learning for Dou Di Zhu, arXiv 2019 \[[paper](https://arxiv.org/abs/1901.08925)] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-06].
 * DeltaDou: Expert-level Doudizhu AI through Self-play, IJCAI 2019 \[[paper](https://www.ijcai.org/proceedings/2019/0176.pdf)].
 * Determinization and information set Monte Carlo Tree Search for the card game Dou Di Zhu, CIG 2011 \[[paper](https://ieeexplore.ieee.org/document/6031993)].
 
