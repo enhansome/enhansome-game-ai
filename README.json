@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-13T14:41:03Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19761,
+                "stars": 19768,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -47,10 +47,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T20:35:43Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5536,
+                "stars": 5537,
                 "topics": [
                   "cpp",
                   "games",
@@ -188,7 +188,7 @@
                 "open_issues": 14,
                 "owner": "lifrordi",
                 "repo": "DeepStack-Leduc",
-                "stars": 952,
+                "stars": 951,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
@@ -340,7 +340,7 @@
                 "open_issues": 1,
                 "owner": "ZhouWeikuan",
                 "repo": "DouDiZhu",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
@@ -361,7 +361,7 @@
                 "open_issues": 4,
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
-                "stars": 242,
+                "stars": 241,
                 "topics": [
                   "deep-learning",
                   "gameai",
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8329,
+                "stars": 8330,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -664,7 +664,7 @@
                 "open_issues": 64,
                 "owner": "Zeta36",
                 "repo": "chess-alpha-zero",
-                "stars": 2227,
+                "stars": 2228,
                 "topics": [
                   "alphago-zero",
                   "chess",
@@ -740,7 +740,7 @@
                 "open_issues": 26,
                 "owner": "NeymarL",
                 "repo": "ChineseChess-AlphaZero",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": [
                   "alphazero",
                   "chinese-chess",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -869,7 +869,7 @@
                 "open_issues": 4,
                 "owner": "Netease-Games-AI-Lab-Guangzhou",
                 "repo": "PerfectDou",
-                "stars": 242,
+                "stars": 241,
                 "topics": [
                   "deep-learning",
                   "gameai",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:59:02.334Z",
+    "last_updated": "2026-10-15T15:46:22.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",

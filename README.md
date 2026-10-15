@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,863 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,343 | 🐛 105 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -8,7 +8,7 @@ If you want to contribute to this list, please feel free to send a pull request.
 
 :loudspeaker: News: Please check out our open-sourced [Large Time Series Model (LTSM)](https://github.com/daochenzha/ltsm) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2025-09-08!
 
-:loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI) ⭐ 1,157 | 🐛 2 | 📅 2024-06-26!
+:loudspeaker: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI) ⭐ 1,158 | 🐛 2 | 📅 2024-06-26!
 
 ## What is Game AI?
 
@@ -55,15 +55,15 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,761 | 🐛 18 | 🌐 C# | 📅 2026-10-13].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,536 | 🐛 82 | 🌐 C++ | 📅 2026-08-31].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,768 | 🐛 19 | 🌐 C# | 📅 2026-10-13].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,537 | 🐛 83 | 🌐 C++ | 📅 2026-08-31].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,518 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,581 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
 * Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,480 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
-* DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 952 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
+* DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 951 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
 * PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 724 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
 * DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 223 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
 * OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning \[[code](https://github.com/wenkesj/holdem) ⭐ 163 | 🐛 11 | 🌐 Python | 📅 2019-10-16].
@@ -72,14 +72,14 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 * DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning \[[code](https://github.com/kwai/DouZero) ⭐ 4,679 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
 * DouDiZhu \[[code](https://github.com/songbaoming/DouDiZhu) ⭐ 339 | 🐛 3 | 🌐 C++ | 📅 2019-07-30].
-* 斗地主AI设计与实现 \[[code](https://github.com/ZhouWeikuan/DouDiZhu) ⭐ 319 | 🐛 1 | 🌐 C++ | 📅 2019-06-03].
-* PerfectDou: Dominating DouDizhu with Perfect Information Distillation \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
+* 斗地主AI设计与实现 \[[code](https://github.com/ZhouWeikuan/DouDiZhu) ⭐ 320 | 🐛 1 | 🌐 C++ | 📅 2019-06-03].
+* PerfectDou: Dominating DouDizhu with Perfect Information Distillation \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 241 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
 * Dou Di Zhu with Combinational Q-Learning \[[paper](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
 * Doudizhu AI using reinforcement learning \[[code](https://github.com/skyduy/doudizhu-rl)].
 
 ### Starcraft Projects
 
-* StarCraft II Learning Environment \[[paper](https://arxiv.org/abs/1708.04782)] \[[code](https://github.com/deepmind/pysc2) ⭐ 8,329 | 🐛 64 | 🌐 Python | 📅 2024-07-23].
+* StarCraft II Learning Environment \[[paper](https://arxiv.org/abs/1708.04782)] \[[code](https://github.com/deepmind/pysc2) ⭐ 8,330 | 🐛 64 | 🌐 Python | 📅 2024-07-23].
 * A reimplementation of Alphastar based on DI-engine with trained models \[[code](https://github.com/opendilab/DI-star) ⭐ 1,403 | 🐛 1 | 🌐 Python | 📅 2025-03-13].
 * StartCraft II Reinforcement Learning Examples \[[code](https://github.com/chris-chris/pysc2-examples) ⭐ 755 | 🐛 26 | 🌐 Python | 📅 2021-03-03].
 * Gym StarCraft \[[code](https://github.com/alibaba/gym-starcraft) ⭐ 527 | 🐛 4 | 🌐 Python | 📅 2017-07-06].
@@ -96,17 +96,17 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Chess Projects
 
-* Chess-Alpha-Zero \[[code](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,227 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24].
+* Chess-Alpha-Zero \[[code](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,228 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24].
 * Simple chess AI \[[code](https://github.com/lhartikk/simple-chess-ai) ⭐ 946 | 🐛 9 | 🌐 JavaScript | 📅 2017-10-16].
 * Deep Pink \[[code](https://github.com/erikbern/deep-pink) ⭐ 833 | 🐛 9 | 🌐 Python | 📅 2017-02-20].
 
 ### Chinese Chess Projects
 
-* CCZero (中国象棋Zero) \[[code](https://github.com/NeymarL/ChineseChess-AlphaZero) ⭐ 1,248 | 🐛 26 | 🌐 Python | 📅 2023-03-24].
+* CCZero (中国象棋Zero) \[[code](https://github.com/NeymarL/ChineseChess-AlphaZero) ⭐ 1,249 | 🐛 26 | 🌐 Python | 📅 2023-03-24].
 
 ### Mahjong Projects
 
-* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,582 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
+* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,583 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
 * pymahjong (Japanese Riichi Mahjong) \[[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2026-06-09].
 
 ## Review and General Papers
@@ -139,7 +139,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 ### Dou Dizhu
 
 * DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 \[[paper](https://arxiv.org/abs/2106.06135)] \[[code](https://github.com/kwai/DouZero) ⭐ 4,679 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
-* PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 \[[paper](https://arxiv.org/abs/2203.16406)] \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
+* PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 \[[paper](https://arxiv.org/abs/2203.16406)] \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 241 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
 * Combinational Q-Learning for Dou Di Zhu, arXiv 2019 \[[paper](https://arxiv.org/abs/1901.08925)] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
 * DeltaDou: Expert-level Doudizhu AI through Self-play, IJCAI 2019 \[[paper](https://www.ijcai.org/proceedings/2019/0176.pdf)].
 * Determinization and information set Monte Carlo Tree Search for the card game Dou Di Zhu, CIG 2011 \[[paper](https://ieeexplore.ieee.org/document/6031993)].
@@ -192,4 +192,4 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
