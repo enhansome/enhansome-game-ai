@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19768,
+                "stars": 19769,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -50,7 +50,7 @@
                 "open_issues": 83,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5537,
+                "stars": 5538,
                 "topics": [
                   "cpp",
                   "games",
@@ -287,7 +287,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4679,
+                "stars": 4681,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -419,7 +419,7 @@
                 "open_issues": 64,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8330,
+                "stars": 8331,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -740,7 +740,7 @@
                 "open_issues": 26,
                 "owner": "NeymarL",
                 "repo": "ChineseChess-AlphaZero",
-                "stars": 1249,
+                "stars": 1250,
                 "topics": [
                   "alphazero",
                   "chinese-chess",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1583,
+                "stars": 1587,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -843,7 +843,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4679,
+                "stars": 4681,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:46:22.034Z",
+    "last_updated": "2026-10-16T15:35:50.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
@@ -995,7 +995,7 @@
       "open_issues": 6,
       "owner": "datamllab",
       "repo": "awesome-game-ai",
-      "stars": 983,
+      "stars": 984,
       "topics": [
         "ai",
         "awesome",
