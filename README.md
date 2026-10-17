@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,842 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,293 | 🐛 105 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -55,14 +55,14 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,769 | 🐛 19 | 🌐 C# | 📅 2026-10-13].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,768 | 🐛 19 | 🌐 C# | 📅 2026-10-13].
 * OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,538 | 🐛 83 | 🌐 C++ | 📅 2026-08-31].
-* Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,518 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
+* Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,517 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,581 | 🐛 80 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
-* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,480 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
+* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,481 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
 * DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 951 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
 * PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 724 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
 * DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 223 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
@@ -92,7 +92,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Gomoku Projects
 
 * AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,636 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
-* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,812 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-17].
+* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,813 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-17].
 
 ### Chess Projects
 
@@ -102,7 +102,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Chinese Chess Projects
 
-* CCZero (中国象棋Zero) \[[code](https://github.com/NeymarL/ChineseChess-AlphaZero) ⭐ 1,250 | 🐛 26 | 🌐 Python | 📅 2023-03-24].
+* CCZero (中国象棋Zero) \[[code](https://github.com/NeymarL/ChineseChess-AlphaZero) ⭐ 1,249 | 🐛 26 | 🌐 Python | 📅 2023-03-24].
 
 ### Mahjong Projects
 
@@ -192,4 +192,4 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
