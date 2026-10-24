@@ -17,11 +17,11 @@
                 "id": 102904613,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T18:52:32Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-23T19:50:01Z",
+                "open_issues": 22,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19784,
+                "stars": 19789,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -46,11 +46,11 @@
                 "id": 198232685,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T15:12:29Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-24T03:21:18Z",
+                "open_issues": 71,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5552,
+                "stars": 5554,
                 "topics": [
                   "cpp",
                   "games",
@@ -77,7 +77,7 @@
                 "open_issues": 75,
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
-                "stars": 4524,
+                "stars": 4523,
                 "topics": [
                   "alpha-zero",
                   "alphago",
@@ -116,7 +116,7 @@
                 "open_issues": 80,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3580,
+                "stars": 3581,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2482,
+                "stars": 2483,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -209,7 +209,7 @@
                 "open_issues": 21,
                 "owner": "ishikota",
                 "repo": "PyPokerEngine",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "ai-poker-game",
                   "poker-engine",
@@ -287,7 +287,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4688,
+                "stars": 4689,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -419,7 +419,7 @@
                 "open_issues": 65,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8332,
+                "stars": 8331,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1593,
+                "stars": 1594,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -803,7 +803,7 @@
                 "open_issues": 0,
                 "owner": "Agony5757",
                 "repo": "mahjong",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "cpp14",
                   "japanese-mahjong",
@@ -843,7 +843,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4688,
+                "stars": 4689,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -931,7 +931,7 @@
             "open_issues": 3,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1518,
+            "stars": 1517,
             "topics": [
               "aaai",
               "aamas",
@@ -973,7 +973,7 @@
             "open_issues": 3,
             "owner": "SKTBrain",
             "repo": "awesome-starcraftAI",
-            "stars": 646,
+            "stars": 647,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:00.129Z"
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:56:19.972Z",
+    "last_updated": "2026-10-24T14:54:38.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
@@ -992,7 +992,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-06-26T23:02:54Z",
-      "open_issues": 7,
+      "open_issues": 6,
       "owner": "datamllab",
       "repo": "awesome-game-ai",
       "stars": 983,
