@@ -17,11 +17,11 @@
                 "id": 102904613,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T17:14:03Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-29T14:58:57Z",
+                "open_issues": 18,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19806,
+                "stars": 19809,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -46,7 +46,7 @@
                 "id": 198232685,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T19:28:35Z",
+                "last_commit": "2026-10-29T16:42:50Z",
                 "open_issues": 80,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
@@ -116,7 +116,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3583,
+                "stars": 3584,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2489,
+                "stars": 2490,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -419,7 +419,7 @@
                 "open_issues": 65,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8329,
+                "stars": 8327,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -596,7 +596,7 @@
                 "open_issues": 80,
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
-                "stars": 3633,
+                "stars": 3634,
                 "topics": [
                   "alphago",
                   "alphago-zero",
@@ -931,7 +931,7 @@
             "open_issues": 3,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "aaai",
               "aamas",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T17:26:35.458Z",
+    "last_updated": "2026-10-29T17:35:27.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
