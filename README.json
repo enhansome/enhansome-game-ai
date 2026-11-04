@@ -47,10 +47,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T21:52:08Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5580,
+                "stars": 5582,
                 "topics": [
                   "cpp",
                   "games",
@@ -116,7 +116,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3588,
+                "stars": 3587,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -596,7 +596,7 @@
                 "open_issues": 80,
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
-                "stars": 3636,
+                "stars": 3637,
                 "topics": [
                   "alphago",
                   "alphago-zero",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1604,
+                "stars": 1605,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:40:06.315Z",
+    "last_updated": "2026-11-04T18:53:42.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",

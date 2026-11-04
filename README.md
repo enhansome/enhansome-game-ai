@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,214 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,854 | 🐛 103 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -56,9 +56,9 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Unified Toolkits
 
 * Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,818 | 🐛 21 | 🌐 C# | 📅 2026-10-30].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,580 | 🐛 82 | 🌐 Python | 📅 2026-10-31].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,582 | 🐛 83 | 🌐 Python | 📅 2026-10-31].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,527 | 🐛 75 | 🌐 Jupyter Notebook | 📅 2025-01-01].
-* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,588 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
+* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,587 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
@@ -91,7 +91,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Gomoku Projects
 
-* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,636 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
+* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,637 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
 * gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,818 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-17].
 
 ### Chess Projects
@@ -106,7 +106,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Mahjong Projects
 
-* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,604 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
+* Mortal \[[code](https://github.com/Equim-chan/Mortal) ⭐ 1,605 | 🐛 13 | 🌐 Rust | 📅 2025-09-28].
 * pymahjong (Japanese Riichi Mahjong) \[[code](https://github.com/Agony5757/mahjong/tree/master/pymahjong) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2026-06-09].
 
 ## Review and General Papers
@@ -192,4 +192,4 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
