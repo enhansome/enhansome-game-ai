@@ -77,7 +77,7 @@
                 "open_issues": 76,
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
-                "stars": 4531,
+                "stars": 4530,
                 "topics": [
                   "alpha-zero",
                   "alphago",
@@ -116,7 +116,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3590,
+                "stars": 3591,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2494,
+                "stars": 2496,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -209,7 +209,7 @@
                 "open_issues": 21,
                 "owner": "ishikota",
                 "repo": "PyPokerEngine",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "ai-poker-game",
                   "poker-engine",
@@ -287,7 +287,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4699,
+                "stars": 4700,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -419,7 +419,7 @@
                 "open_issues": 65,
                 "owner": "google-deepmind",
                 "repo": "pysc2",
-                "stars": 8334,
+                "stars": 8336,
                 "topics": [
                   "blizzard-api",
                   "deepmind",
@@ -561,7 +561,7 @@
                 "open_issues": 44,
                 "owner": "pytorch",
                 "repo": "ELF",
-                "stars": 3409,
+                "stars": 3408,
                 "topics": [
                   "alpha-zero",
                   "alphago-zero",
@@ -631,7 +631,7 @@
                 "open_issues": 43,
                 "owner": "lihongxun945",
                 "repo": "gobang",
-                "stars": 1819,
+                "stars": 1818,
                 "topics": [
                   "ai",
                   "gobang",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1612,
+                "stars": 1611,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -843,7 +843,7 @@
                 "open_issues": 35,
                 "owner": "kwai",
                 "repo": "DouZero",
-                "stars": 4699,
+                "stars": 4700,
                 "topics": [
                   "doudizhu",
                   "game-ai",
@@ -927,7 +927,7 @@
             "id": 80825974,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T06:29:02Z",
+            "last_commit": "2026-11-10T06:21:08Z",
             "open_issues": 2,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:38:49.599Z",
+    "last_updated": "2026-11-10T18:53:40.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
