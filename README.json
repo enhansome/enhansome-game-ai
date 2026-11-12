@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19863,
+                "stars": 19870,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -50,7 +50,7 @@
                 "open_issues": 91,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5588,
+                "stars": 5590,
                 "topics": [
                   "cpp",
                   "games",
@@ -77,7 +77,7 @@
                 "open_issues": 76,
                 "owner": "suragnair",
                 "repo": "alpha-zero-general",
-                "stars": 4530,
+                "stars": 4531,
                 "topics": [
                   "alpha-zero",
                   "alphago",
@@ -116,7 +116,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3591,
+                "stars": 3593,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -163,7 +163,7 @@
                 "open_issues": 34,
                 "owner": "dickreuter",
                 "repo": "Poker",
-                "stars": 2496,
+                "stars": 2498,
                 "topics": [
                   "artificial-intelligence",
                   "poker",
@@ -234,7 +234,7 @@
                 "open_issues": 24,
                 "owner": "happypepper",
                 "repo": "DeepHoldem",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:00.129Z"
@@ -561,7 +561,7 @@
                 "open_issues": 44,
                 "owner": "pytorch",
                 "repo": "ELF",
-                "stars": 3408,
+                "stars": 3409,
                 "topics": [
                   "alpha-zero",
                   "alphago-zero",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1612,
+                "stars": 1613,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -927,11 +927,11 @@
             "id": 80825974,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T06:21:11Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T06:21:46Z",
+            "open_issues": 3,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
-            "stars": 1522,
+            "stars": 1523,
             "topics": [
               "aaai",
               "aamas",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:53:37.512Z",
+    "last_updated": "2026-11-12T19:11:08.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
@@ -995,7 +995,7 @@
       "open_issues": 8,
       "owner": "datamllab",
       "repo": "awesome-game-ai",
-      "stars": 985,
+      "stars": 986,
       "topics": [
         "ai",
         "awesome",
