@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,851 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,349 | 🐛 103 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -56,7 +56,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Unified Toolkits
 
 * Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,870 | 🐛 21 | 🌐 C# | 📅 2026-10-30].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,590 | 🐛 91 | 🌐 Python | 📅 2026-11-06].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,591 | 🐛 91 | 🌐 Python | 📅 2026-11-13].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,531 | 🐛 76 | 🌐 Jupyter Notebook | 📅 2025-01-01].
 * RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,593 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
 
@@ -72,7 +72,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 * DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning \[[code](https://github.com/kwai/DouZero) ⭐ 4,702 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
 * DouDiZhu \[[code](https://github.com/songbaoming/DouDiZhu) ⭐ 340 | 🐛 3 | 🌐 C++ | 📅 2019-07-30].
-* 斗地主AI设计与实现 \[[code](https://github.com/ZhouWeikuan/DouDiZhu) ⭐ 320 | 🐛 1 | 🌐 C++ | 📅 2019-06-03].
+* 斗地主AI设计与实现 \[[code](https://github.com/ZhouWeikuan/DouDiZhu) ⭐ 319 | 🐛 1 | 🌐 C++ | 📅 2019-06-03].
 * PerfectDou: Dominating DouDizhu with Perfect Information Distillation \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
 * Dou Di Zhu with Combinational Q-Learning \[[paper](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
 * Doudizhu AI using reinforcement learning \[[code](https://github.com/skyduy/doudizhu-rl)].
@@ -91,7 +91,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Gomoku Projects
 
-* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,638 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
+* AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,639 | 🐛 80 | 🌐 Python | 📅 2024-04-24].
 * gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,818 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-17].
 
 ### Chess Projects
@@ -187,9 +187,9 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ## Related Lists
 
-* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,523 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-12
+* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,523 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-13
 * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI) ⭐ 647 | 🐛 3 | 📅 2022-02-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
