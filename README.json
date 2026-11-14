@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T02:19:45Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "Unity-Technologies",
                 "repo": "ml-agents",
-                "stars": 19870,
+                "stars": 19872,
                 "topics": [
                   "deep-learning",
                   "deep-reinforcement-learning",
@@ -46,11 +46,11 @@
                 "id": 198232685,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T15:16:25Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-14T03:57:21Z",
+                "open_issues": 94,
                 "owner": "google-deepmind",
                 "repo": "open_spiel",
-                "stars": 5591,
+                "stars": 5590,
                 "topics": [
                   "cpp",
                   "games",
@@ -116,7 +116,7 @@
                 "open_issues": 81,
                 "owner": "datamllab",
                 "repo": "rlcard",
-                "stars": 3593,
+                "stars": 3591,
                 "topics": [
                   "ai",
                   "blackjack",
@@ -593,10 +593,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-04-24T00:40:39Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "junxiaosong",
                 "repo": "AlphaZero_Gomoku",
-                "stars": 3639,
+                "stars": 3640,
                 "topics": [
                   "alphago",
                   "alphago-zero",
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "Equim-chan",
                 "repo": "Mortal",
-                "stars": 1613,
+                "stars": 1615,
                 "topics": [
                   "ai",
                   "deep-learning",
@@ -927,7 +927,7 @@
             "id": 80825974,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T06:21:03Z",
+            "last_commit": "2026-11-14T06:18:38Z",
             "open_issues": 4,
             "owner": "tigerneil",
             "repo": "awesome-deep-rl",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:48:29.523Z",
+    "last_updated": "2026-11-14T17:19:30.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Game AI materials of Multi-Agent Reinforcement Learning",
