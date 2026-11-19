@@ -1,6 +1,6 @@
 # Awesome-Game-AI with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,943 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,442 | 🐛 103 | 📅 2026-09-02
 
 A curated, but incomplete, list of game AI resources on **multi-agent** learning.
 
@@ -16,9 +16,9 @@ Game AI is focusing on predicting which actions should be taken, based on the cu
 
 ## Single-Agent vs. Multi-Agent
 
-Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai) ⭐ 695 | 🐛 3 | 🌐 Lua | 📅 2016-05-26, [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) ⭐ 6,824 | 🐛 44 | 🌐 Python | 📅 2024-08-07.
+Numerous studies and achievements have been made to game AI in single-agent environments, where there is a single player in the games. For instance, [Deep Q-learning](https://www.nature.com/articles/nature14236) is successfully applied to Atari Games. Other examples include [Super Mario](https://github.com/aleju/mario-ai) ⭐ 695 | 🐛 3 | 🌐 Lua | 📅 2016-05-26, [Minecraft](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14630), and [Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird) ⭐ 6,822 | 🐛 44 | 🌐 Python | 📅 2024-08-07.
 
-Multi-agent environments are more challenging since each player has to reason about the other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as [Libratus](https://science.sciencemag.org/content/359/6374/418), [DeepStack](https://science.sciencemag.org/content/356/6337/508) and [DouZero](https://github.com/kwai/DouZero) ⭐ 4,705 | 🐛 35 | 🌐 Python | 📅 2024-06-26, achieving expert-level performance in Texas Hold'em and Chinese Poker game Dou Dizhu. Now researchers keep progressing and achieve human-level AI on [Dota 2](https://openai.com/five/) and [Starcraft 2](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) with deep reinforcement learning.
+Multi-agent environments are more challenging since each player has to reason about the other players' moves. Modern reinforcement learning techniques have boosted multi-agent game AI. In 2015, [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), for the first time beat a human professional Go player on a full-sized 19×19 board. In 2017, [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) taught itself from scratch and learned to master the games of chess, shogi, and Go. In more recent years, researchers have made efforts to poker games, such as [Libratus](https://science.sciencemag.org/content/359/6374/418), [DeepStack](https://science.sciencemag.org/content/356/6337/508) and [DouZero](https://github.com/kwai/DouZero) ⭐ 4,704 | 🐛 35 | 🌐 Python | 📅 2024-06-26, achieving expert-level performance in Texas Hold'em and Chinese Poker game Dou Dizhu. Now researchers keep progressing and achieve human-level AI on [Dota 2](https://openai.com/five/) and [Starcraft 2](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) with deep reinforcement learning.
 
 ## Perfect Information vs. Imperfect Information
 
@@ -55,26 +55,26 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 
 ### Unified Toolkits
 
-* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,883 | 🐛 22 | 🌐 C# | 📅 2026-11-18].
-* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,598 | 🐛 95 | 🌐 Python | 📅 2026-11-14].
+* Unity ML-Agents Toolkit \[[paper](https://arxiv.org/abs/1809.02627)] \[[code](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,887 | 🐛 22 | 🌐 C# | 📅 2026-11-19].
+* OpenSpiel: A Framework for Reinforcement Learning in Games \[[paper](https://arxiv.org/abs/1908.09453)] \[[code](https://github.com/deepmind/open_spiel) ⭐ 5,600 | 🐛 95 | 🌐 Python | 📅 2026-11-14].
 * Alpha Zero General \[[code](https://github.com/suragnair/alpha-zero-general) ⭐ 4,533 | 🐛 76 | 🌐 Jupyter Notebook | 📅 2025-01-01].
-* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,591 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
+* RLCard: A Toolkit for Reinforcement Learning in Card Games \[[paper](https://arxiv.org/abs/1910.04376)] \[[code](https://github.com/datamllab/rlcard) ⭐ 3,590 | 🐛 81 | 🌐 Python | 📅 2024-06-26].
 
 ### Texas Hold'em Projects
 
-* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,500 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
+* Deep mind pokerbot for pokerstars and partypoker \[[code](https://github.com/dickreuter/Poker) ⭐ 2,499 | 🐛 34 | 🌐 Python | 📅 2025-06-26].
 * DeepStack-Leduc \[[paper](https://arxiv.org/abs/1701.01724)] \[[code](https://github.com/lifrordi/DeepStack-Leduc) ⭐ 951 | 🐛 14 | 🌐 Lua | 📅 2018-01-06].
-* PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 727 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
-* DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 224 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
+* PyPokerEngine \[[code](https://github.com/ishikota/PyPokerEngine) ⭐ 726 | 🐛 21 | 🌐 Python | 📅 2024-04-10].
+* DeepHoldem \[[code](https://github.com/happypepper/DeepHoldem) ⭐ 223 | 🐛 24 | 🌐 Lua | 📅 2018-09-25].
 * OpenAI Gym No Limit Texas Hold 'em Environment for Reinforcement Learning \[[code](https://github.com/wenkesj/holdem) ⭐ 163 | 🐛 11 | 🌐 Python | 📅 2019-10-16].
 
 ### Dou Dizhu Projects
 
-* DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning \[[code](https://github.com/kwai/DouZero) ⭐ 4,705 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
+* DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning \[[code](https://github.com/kwai/DouZero) ⭐ 4,704 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
 * DouDiZhu \[[code](https://github.com/songbaoming/DouDiZhu) ⭐ 341 | 🐛 3 | 🌐 C++ | 📅 2019-07-30].
 * 斗地主AI设计与实现 \[[code](https://github.com/ZhouWeikuan/DouDiZhu) ⭐ 319 | 🐛 1 | 🌐 C++ | 📅 2019-06-03].
 * PerfectDou: Dominating DouDizhu with Perfect Information Distillation \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
-* Dou Di Zhu with Combinational Q-Learning \[[paper](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
+* Dou Di Zhu with Combinational Q-Learning \[[paper](https://github.com/qq456cvb/doudizhu-C) ⭐ 163 | 🐛 2 | 🌐 Python | 📅 2026-10-07] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 163 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
 * Doudizhu AI using reinforcement learning \[[code](https://github.com/skyduy/doudizhu-rl)].
 
 ### Starcraft Projects
@@ -92,7 +92,7 @@ This repository gathers some awesome resources for Game AI on multi-agent learni
 ### Gomoku Projects
 
 * AlphaZero-Gomoku \[[code](https://github.com/junxiaosong/AlphaZero_Gomoku) ⭐ 3,641 | 🐛 81 | 🌐 Python | 📅 2024-04-24].
-* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,821 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-17].
+* gobang \[[code](https://github.com/lihongxun945/gobang) ⭐ 1,821 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-17].
 
 ### Chess Projects
 
@@ -138,9 +138,9 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ### Dou Dizhu
 
-* DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 \[[paper](https://arxiv.org/abs/2106.06135)] \[[code](https://github.com/kwai/DouZero) ⭐ 4,705 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
+* DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning, ICML 2021 \[[paper](https://arxiv.org/abs/2106.06135)] \[[code](https://github.com/kwai/DouZero) ⭐ 4,704 | 🐛 35 | 🌐 Python | 📅 2024-06-26].
 * PerfectDou: Dominating DouDizhu with Perfect Information Distillation, NeurIPS 2022 \[[paper](https://arxiv.org/abs/2203.16406)] \[[code](https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou) ⭐ 242 | 🐛 4 | 🌐 Python | 📅 2024-05-14].
-* Combinational Q-Learning for Dou Di Zhu, arXiv 2019 \[[paper](https://arxiv.org/abs/1901.08925)] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 164 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
+* Combinational Q-Learning for Dou Di Zhu, arXiv 2019 \[[paper](https://arxiv.org/abs/1901.08925)] \[[code](https://github.com/qq456cvb/doudizhu-C) ⭐ 163 | 🐛 2 | 🌐 Python | 📅 2026-10-07].
 * DeltaDou: Expert-level Doudizhu AI through Self-play, IJCAI 2019 \[[paper](https://www.ijcai.org/proceedings/2019/0176.pdf)].
 * Determinization and information set Monte Carlo Tree Search for the card game Dou Di Zhu, CIG 2011 \[[paper](https://ieeexplore.ieee.org/document/6031993)].
 
@@ -187,9 +187,9 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ## Related Lists
 
-* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,523 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-18
+* [Awesome Deep Reinforcement Learning](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,523 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-19
 * [Awesome StarCraft AI](https://github.com/SKTBrain/awesome-starcraftAI) ⭐ 647 | 🐛 3 | 📅 2022-02-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
